@@ -1,1 +1,1 @@
-This is a project on designing a webpage using flex. Webpage is bear-themed.XD
+This is a project on designing a webpage using flex.XD
